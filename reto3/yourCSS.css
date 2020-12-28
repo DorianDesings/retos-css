@@ -1,0 +1,11 @@
+/* 
+IMPORTANTE: USAR UN SOLO DIV
+Colors:
+  Background: #62374e
+  Squares:#fdc57b
+*/
+.bg {
+  width: 400px;
+  height: 300px;
+  background: #62374e;
+}

@@ -1,0 +1,12 @@
+/* 
+IMPORTANTE: USAR UN SOLO DIV
+Colors:
+  Background: #5C434C
+  Orange: #F09462
+  Yellow: #F5D6B4
+*/
+.bg {
+  width: 400px;
+  height: 300px;
+  background-color: #5c434c;
+}

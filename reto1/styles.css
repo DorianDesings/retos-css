@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: repeat(2, 420px);
+  justify-content: center;
+  justify-items: center;
+}
+
+.exercise img {
+  max-width: 100%;
+  display: block;
+}

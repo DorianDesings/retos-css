@@ -1,0 +1,13 @@
+/* 
+IMPORTANTE: USAR UN SOLO DIV
+Colors:
+  Background: #19191A
+  Circle:#4F77FF
+  Rectangle:#F9E492
+  Union: #9AD5FF
+*/
+.bg {
+  width: 400px;
+  height: 300px;
+  background-color: #19191a;
+}

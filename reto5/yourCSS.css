@@ -1,0 +1,11 @@
+/* 
+IMPORTANTE: USAR UN SOLO DIV Y NO USAR CLIP-PATH
+Colors:
+  Background: #6592CF
+  Shape:#243D83
+*/
+.bg {
+  width: 400px;
+  height: 300px;
+  background-color: #6592cf;
+}

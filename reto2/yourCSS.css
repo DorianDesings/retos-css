@@ -1,0 +1,12 @@
+/* 
+IMPORTANTE: USAR UN SOLO DIV
+Colors:
+  Background: #293462
+  Soap: #FE5F55
+  Shadow: #A64942
+*/
+.bg {
+  width: 400px;
+  height: 300px;
+  background: #293462;
+}
